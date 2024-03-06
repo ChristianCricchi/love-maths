@@ -1,1 +1,1 @@
-[Love maths](https://christiancricchi.github.io/Vegan-Life/)
+[Love maths](https://christiancricchi.github.io/love-maths/)
